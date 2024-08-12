@@ -1,4 +1,4 @@
-module go-test
+module github.com/josexy/go-test
 
 
 go 1.22.4
